@@ -43,16 +43,34 @@ design-flavored-problems/
 
 ---
 
-## ⚙️ How to Use
-1. Clone the repository  
-git clone https://github.com/anshkunj/design-flavored-problems.git  
-cd design-flavored-problems  
+## ⚙️ Installation & Run
 
-2. Open any `.py` file, read the problem, and understand the system simulation logic  
+1) Clone the repository  
+git clone https://github.com/anshkunj/design-flavoured-problems.git  
+cd design-flavoured-problems  
 
-3. Solve or adapt the code for your own projects  
-   - Add diagrams  
-   - Experiment with different constraints  
+2) Install dependencies  
+pip install -r requirements.txt  
+
+3) Run the server  
+uvicorn main:app --reload  
+
+---
+
+## 🌐 API Documentation
+
+Swagger UI: http://127.0.0.1:8000/docs  
+
+ReDoc: http://127.0.0.1:8000/redoc  
+
+---
+
+## 🌐 Live API
+
+Base URL:  
+https://design-flavoured-problems.onrender.com  
+Docs:  
+https://design-flavoured-problems.onrender.com/docs 
 
 ---
 
