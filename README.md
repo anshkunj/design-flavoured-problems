@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/anshkunj/design-flavoured-problems/blob/1e809df95b193b2c65e4bc899854d1df15d844b8/file_0000000033087207b98238d19c87fd41.png" alt="Design Flavoured Problems" width="1200">
+</p>
+
+<h1 align="center">Design Flavoured Problems</h1>
+<p align="center">Coding Challenges with a Creative Twist 🚀</p>
+
 # 🚀 Design-Flavored Problems
 
 A collection of **design-inspired algorithm problems** simulating real-world system scenarios. Focused on queues, stacks, scheduling, and optimization challenges, each problem is explained with diagrams, patterns, and efficient solutions.
