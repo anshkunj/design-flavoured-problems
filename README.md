@@ -24,11 +24,9 @@ A collection of **design-inspired algorithm problems** simulating real-world sys
 
 design-flavored-problems/  
 ├── README.md                   # This file  
-├── queue_task_scheduler.py     # Task scheduling patterns  
-├── stack_min_tracker.py        # Stack design with auxiliary operations  
-├── sliding_window_max_design.py # Real-world windowed system  
-├── lru_cache_simulation.py      # LRU cache design problem  
-├── recent_counter.py           # Rolling counter simulation  
+├── logic.py  
+├── models.py  
+├── main.py  
 └── ... (add more design-focused problems)  
 
 ---
