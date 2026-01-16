@@ -31,8 +31,7 @@ design-flavored-problems/
 
 ---
 
-## 🏗️ How This Repo Works
-- Each `.py` file contains a single problem solution  
+## 🏗️ How This Repo Works  
 - Core design logic is explained with **diagrams + comments**  
 - Patterns highlighted for **backend, system design, and algorithmic thinking**  
 - Optimized solutions for efficiency and scalability  
@@ -76,23 +75,6 @@ Base URL:
 https://design-flavoured-problems.onrender.com  
 Docs:  
 https://design-flavoured-problems.onrender.com/docs 
-
----
-
-## 🧪 Example (LRU Cache Simulation)
-
-```python
-cache = LRUCache(2)
-cache.put(1, 1)
-cache.put(2, 2)
-print(cache.get(1))  # returns 1
-cache.put(3, 3)      # evicts key 2
-print(cache.get(2))  # returns -1
-```
-
-- Simulates a real LRU cache  
-- Handles get/put operations in O(1)  
-- Demonstrates abstraction and system design thinking  
 
 ---
 
