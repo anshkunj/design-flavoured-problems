@@ -72,10 +72,8 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 ## 🌐 Live API
 
-Base URL:  
-https://design-flavoured-problems.onrender.com  
-Docs:  
-https://design-flavoured-problems.onrender.com/docs 
+Base URL: https://design-flavoured-problems.onrender.com  
+Docs: https://design-flavoured-problems.onrender.com/docs 
 
 ---
 
