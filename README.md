@@ -23,11 +23,12 @@ A collection of **design-inspired algorithm problems** simulating real-world sys
 ## 📂 Repo Structure
 
 design-flavored-problems/  
-├── README.md                   # This file  
-├── logic.py  
-├── models.py  
-├── main.py  
-└── ... (add more design-focused problems)  
+├── main.py          # FastAPI app & routes
+├── logic.py         # Core algorithm implementations  
+├── models.py        # Pydantic request models  
+├── requirements.txt  
+├── README.md  
+└── LICENSE  
 
 ---
 
