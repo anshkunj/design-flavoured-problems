@@ -77,6 +77,91 @@ Docs: https://design-flavoured-problems.onrender.com/docs
 
 ---
 
+## 🔗 Endpoints – Design-Flavoured Problems
+
+This section documents conceptual API-style endpoints mapped to the functions in logic.py.  
+Each endpoint shows example input and expected output.
+
+### 1️⃣ Word Break
+**Endpoint:** /design/word-break
+
+Input:
+s = "leetcode"
+wordDict = ["leet","code"]
+
+Output:
+result = true
+
+### 2️⃣ Evaluate Reverse Polish Notation
+**Endpoint:** /design/eval-rpn
+
+Input:
+tokens = ["2","1","+","3","*"]
+
+Output:
+result = 9
+
+### 3️⃣ Sliding Window Maximum
+**Endpoint:** /design/sliding-window-maximum
+
+Input:
+nums = [1,3,-1,-3,5,3,6,7]
+k = 3
+
+Output:
+result = [3,3,5,5,6,7]
+
+### 4️⃣ Next Greater Element II
+**Endpoint:** /design/next-greater-element-ii
+
+Input:
+nums = [1,2,1]
+
+Output:
+result = [2,-1,2]
+
+### 5️⃣ Daily Temperatures
+**Endpoint:** /design/daily-temperatures
+
+Input:
+T = [73,74,75,71,69,72,76,73]
+
+Output:
+result = [1,1,4,2,1,1,0,0]
+
+### 6️⃣ K Closest Points to Origin
+**Endpoint:** /design/k-closest-points
+
+Input:
+points = [[1,3],[-2,2]]
+k = 1
+
+Output:
+result = [[-2,2]]
+
+### 7️⃣ Time-Based Key-Value Store – Set
+**Endpoint:** /design/timemap/set
+
+Input:
+key = "foo"
+value = "bar"
+timestamp = 1
+
+Output:
+ack = true
+
+### 7️⃣ Time-Based Key-Value Store – Get
+**Endpoint:** /design/timemap/get
+
+Input:
+key = "foo"
+timestamp = 1
+
+Output:
+result = "bar"
+
+---
+
 ## 🚧 Edge Cases Handled
 - Empty inputs  
 - Large number of operations  
