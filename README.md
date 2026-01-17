@@ -139,7 +139,9 @@ k = 1
 Output:
 result = [[-2,2]]
 
-### 7️⃣ Time-Based Key-Value Store – Set
+### 7️⃣ Time-Based Key-Value Store
+
+#### Set
 **Endpoint:** /design/timemap/set
 
 Input:
@@ -150,7 +152,7 @@ timestamp = 1
 Output:
 ack = true
 
-### 7️⃣ Time-Based Key-Value Store – Get
+#### Get
 **Endpoint:** /design/timemap/get
 
 Input:
