@@ -21,15 +21,17 @@ A collection of **design-inspired algorithm problems** simulating real-world sys
 ---
 
 ## 📂 Repo Structure
-
+```
 design-flavored-problems/  
 ├── main.py          # FastAPI app & routes
 ├── logic.py         # Core algorithm implementations  
 ├── models.py        # Pydantic request models  
+├── .gitignore  
 ├── requirements.txt  
-├── README.md  
-└── LICENSE  
-
+├── render.yaml  
+├── README.md       # Project Overview  
+└── LICENSE         # Licence file (MIT)  
+```
 ---
 
 ## 🏗️ How This Repo Works  
